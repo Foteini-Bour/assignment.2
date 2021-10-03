@@ -3,8 +3,24 @@
     <head>
         <meta charset="utf-8">
         <title> Assignment 2</title>
+        <style>
+        body {
+            background-color: black;
+            color: white;
+        }
+        h1 {
+            font-size: 20px
+        }
+        
+        p {
+            font-size: 12px;
+            color: green;
+        }
+        </style>
+     
     </head>
     <body>
+
     <h1> Let's use CSS to style this webpage! </h1>
     <p> This is my fist attempt to use CSS to style a webpage. <br>
     It may not be perfect, but it is still a good practice. <p/>
