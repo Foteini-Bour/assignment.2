@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title> Assignment 2</title>
+    </head>
+    <body>
+    <h1> Let's use CSS to style this webpage! </h1>
+    <p> This is my fist attempt to use CSS to style a webpage. <br>
+    It may not be perfect, but it is still a good practice. <p/>
+    <h2> These are the top things that I will do when I master HTML and CSS: </h2>
+    <ol>
+      <li> I will make my own website </li>
+      <li> I will help my friends make their websites </li>
+    </ol>
+    
+    <h2> Now I will outline my favorite things about web application </h2>
+    <ul>
+      <li> It is creative </li>
+      <li> It is useful </li>
+    </ul>
+
+    </body>
+</html>
