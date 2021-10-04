@@ -9,29 +9,47 @@
             color: white;
         }
         h1 {
-            font-size: 20px
+            font-size: 20px;
         }
         
         p {
             font-size: 12px;
             color: green;
         }
+        
+        div {
+              border-style: dotted;
+              border-width: 2px;
+              height: 100px;
+              width: 100px;
+        }
+        
+        #ordered list { list-style-type: lower-alpha;
+        }
+        
+        #unordered list { list-style-type: square;
+        }
+        
         </style>
      
     </head>
     <body>
 
     <h1> Let's use CSS to style this webpage! </h1>
-    <p> This is my fist attempt to use CSS to style a webpage. <br>
-    It may not be perfect, but it is still a good practice. <p/>
+    
+    <div>
+        <p> This is my fist attempt to use CSS to style a webpage. <br>
+        It may not be perfect, but it is still a good practice. <p/>
+    </div>
+    
     <h2> These are the top things that I will do when I master HTML and CSS: </h2>
-    <ol>
+    <ol id="ordered list">
       <li> I will make my own website </li>
       <li> I will help my friends make their websites </li>
     </ol>
     
     <h2> Now I will outline my favorite things about web application </h2>
-    <ul>
+    <ul id="unordered list">
       <li> It is creative </li>
       <li> It is useful </li>
     </ul>
