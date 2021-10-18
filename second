@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title> Assignment 4B</title>
+        <link rel="stylesheet" type="text/css" href="styles-second.css">
+    </head>
+    <body>
+
+    <h1> My coding progress </h1>
+  
+    <h2> Things that I have learnt in HTML coding this week: </h2>
+    <ol>
+      <li> Backgorund images and colors </li>
+      <li> Borders </li>
+      <li> Margins and paddings </l>
+    </ol>
+    
+     <p> You may review my previous work <a href="file:///C:/Users/fbourzikou/AppData/Local/Temp/Temp1_3B.zip-main.zip/3B.zip-main/index.html">here</a> <br>
+     It may not be perfect, but it is still a good practice. </p>
+     
+     <img src="programming-4532296_960_720.jpg" alt="Code in PC screen">
+     
+     <figure>
+        <img src="800px_COLOURBOX27817128.jpg" alt="Happy person in his PC">
+        <figcaption>Fig.1 - Coding Picture. </figcaption>
+     </figure>
+     
+     <label for="My progress">Coding progress:</label>
+     <progress id="my_progress" value="25" max="100"> 25% </progress>
+
+    </body>
+</html>
